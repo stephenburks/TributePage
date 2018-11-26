@@ -1,0 +1,77 @@
+/* Element Selectors */
+
+hr.style1{
+	border-top: 1px solid #dadada;
+	width: 80%;
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 16px
+}
+
+h4 {
+  font-weight: bold;
+}
+
+figcaption {
+	margin-top: 10px;
+}
+
+
+/* Class Selectors & Styling */
+
+.container-fluid {
+    background-color: #dadada;
+}
+
+.body {
+  font-family: arial;
+  background-color: white;
+  border-radius: 10px;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  margin: 2% 5%;
+  background-color: white;
+  box-shadow: 1px 1px 25px 1px gray;
+}
+
+.header {
+  text-align: center;
+  font-family: arial;
+}
+
+.ali {
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-bottom: 0;
+}
+
+.subheading {
+  padding-bottom: 2%;
+}
+
+.img {
+  width: 100%;
+  padding: 0%;
+}
+
+
+.list {
+  padding-right: 5%;
+}
+
+
+.foot-head {
+  text-align: center;
+}
+
+
+.credits {
+  text-align: center;
+  font-size: 12px;
+}
